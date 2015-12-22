@@ -1,2 +1,4 @@
 162.158.153.23 19/Dec/2015:20:53:10 Blacklisted for brute force attempts against texasn*
-27.255.67.21 [19/Dec/2015:20:58:51  Blacklisted for brute force against propul*
+27.255.67.21 19/Dec/2015:20:58:51  Blacklisted for brute force against propul*
+
+46.148.18.162 Several Months of Brute Force Attempts of buyhap*
