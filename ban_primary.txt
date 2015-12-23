@@ -2,3 +2,4 @@
 27.255.67.21 19/Dec/2015:20:58:51  Blacklisted for brute force against propul*
 
 46.148.18.162 Several Months of Brute Force Attempts of buyhap*
+46.148.22.18 Continuation of prior attempts. IP blacklisted. Hostmaster notified.
